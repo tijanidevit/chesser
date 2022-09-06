@@ -30,7 +30,11 @@
 								</li>
 
 								<li>
-									<a href="play">Quick Game</a>
+									<a href="computer">Versus Computer/a>
+								</li>
+
+								<li>
+									<a href="two">Two Players</a>
 								</li>
 							</ul>
 
